@@ -32,6 +32,8 @@ public class Main extends Application {
         primaryStage.show();
 
         System.out.println("by Vinícius Viana");
+        // TODO: remover linha logo abaixo.
+        System.out.println("Adicionado linha pelo github.dev");
     }
     
     @Override
